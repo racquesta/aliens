@@ -1,4 +1,4 @@
-alert("Loading")
+// alert("Loading")
 // ---------------------------------
 //  Create and run function to clean up data
 function cleanUpData(){
